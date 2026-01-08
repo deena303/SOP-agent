@@ -1,0 +1,5 @@
+{
+  "name": "OpsMind AI - Enterprise SOP Agent",
+  "description": "A stable base architecture for an enterprise SOP agent that parses PDFs, chunks content, and prepares for Gemini-powered retrieval-augmented generation (RAG).",
+  "requestFramePermissions": []
+}
